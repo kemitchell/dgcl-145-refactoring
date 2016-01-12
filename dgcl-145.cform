@@ -56,24 +56,24 @@
 
         \ Additional Definitions \
 
-            \\ ""Party To"" means is a party or is threatened to be made a party to.
+            \\ ""Actual Expenses"" means <Expenses> actually and reasonably incurred.
 
             \\ ""Affiliate"" means present or former director, officer, employee, or agent.
 
             \\ ""Company Affiliate"" means an <Affiliate> of <The Corporation>, or <Affiliate> of another <Legal Entity> <Serving at the Request of the Corporation>.
 
-            \\ ""Standard of Conduct"" means action in good faith and in a manner the person reasonably believed to be in or not opposed to the best interests of <The Corporation>, and, with respect to any criminal action or proceeding, had no reasonable cause to believe the person's conduct was unlawful.
-
             \\ ""Expenses"" means expenses (including attorneys' fees).
 
-            \\ ""Actual Expenses"" means <Expenses> actually and reasonably incurred.
-
-            \\ ""Part"" means claim, issue, or matter.
-
-            \\ ""On the Corporation's Behalf"" means by or in the right of the <The Corporation>.
+            \\ ""Legal Entity"" means corporation, partnership, joint venture, trust or <Other Enterprise>.
 
             \\ ""Legal Proceeding"" means threatened, pending, or completed action, suit, or proceeding.
 
-            \\ ""Third-Party Proceeding"" means a <Legal Proceeding>, whether civil, criminal, administrative, or investigative (other than an action <On the Corporation's Behalf>).
+            \\ ""On the Corporation's Behalf"" means by or in the right of the <The Corporation>.
 
-            \\ ""Legal Entity"" means corporation, partnership, joint venture, trust or <Other Enterprise>.
+            \\ ""Part"" means claim, issue, or matter.
+
+            \\ ""Party To"" means is a party or is threatened to be made a party to.
+
+            \\ ""Standard of Conduct"" means action in good faith and in a manner the person reasonably believed to be in or not opposed to the best interests of <The Corporation>, and, with respect to any criminal action or proceeding, had no reasonable cause to believe the person's conduct was unlawful.
+
+            \\ ""Third-Party Proceeding"" means a <Legal Proceeding>, whether civil, criminal, administrative, or investigative (other than an action <On the Corporation's Behalf>).
